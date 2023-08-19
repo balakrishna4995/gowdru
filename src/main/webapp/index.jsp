@@ -3,10 +3,10 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Hello, World!</title>
+<title>Hello, balu!</title>
 <style>
   body {
-    background-color: red;
+    background-color: blue;
   }
 </style>
 </head>
