@@ -6,7 +6,7 @@
 <title>Hello, balu!</title>
 <style>
   body {
-    background-color: blue;
+    background-color: pink;
   }
 </style>
 </head>
