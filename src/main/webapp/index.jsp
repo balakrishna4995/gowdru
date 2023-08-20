@@ -7,9 +7,9 @@
 <style>
   body {
 <<<<<<< HEAD
-    background-color: green;
+    background-color: red;
 =======
-    background-color: green;
+    background-color: red;
 >>>>>>> a46af61101eb49a3a813b3cfad21ddf9cb66282b
   }
 </style>
