@@ -7,15 +7,15 @@
 <style>
   body {
 <<<<<<< HEAD
-    background-color: green;
+    background-color: purple;
 =======
-    background-color: green;
+    background-color: purple;
 >>>>>>> a46af61101eb49a3a813b3cfad21ddf9cb66282b
   }
 </style>
 </head>
 <body>
-<h1>Hello, balu!</h1>
+<h1>Hello, gowda!</h1>
 <p>This is a sample "Hello, World!" application for 2028 April Batch.</p>
 </body>
 </html>
